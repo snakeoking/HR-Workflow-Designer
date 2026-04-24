@@ -8,7 +8,7 @@
 
 > **Tredence Analytics Case Study Submission** > **Role:** Full Stack Engineering Intern (AI Agentic Platforms)  
 > **Author:** SHREYANSH KUMAR  
-> **Live Demo:** [Insert Link to Vercel/Netlify/Render if you deployed it, or remove this line]
+> **Live Demo:** https://hr-workflow-designer-delta-orcin.vercel.app/
 
 ---
 
