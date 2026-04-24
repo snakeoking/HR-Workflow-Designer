@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 m-0 p-0 overflow-hidden font-sans;
+  }
+}
+
+.react-flow__node {
+  @apply shadow-sm rounded-lg;
+}
+
+.react-flow__handle {
+  @apply w-3 h-3 bg-slate-400 border-2 border-white;
+}
+
+.react-flow__handle-valid {
+  @apply bg-emerald-500;
+}
