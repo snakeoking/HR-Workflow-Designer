@@ -5,12 +5,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)](https://github.com/pmndrs/zustand)
 [![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=for-the-badge&logo=react&logoColor=white)](https://reactflow.dev/)
-
-> **Tredence Analytics Case Study Submission** > **Role:** Full Stack Engineering Intern (AI Agentic Platforms)  
-> **Author:** SHREYANSH KUMAR  
+ 
 > **Live Demo:** https://hr-workflow-designer-delta-orcin.vercel.app/
-
----
 
 ## 📖 Table of Contents
 - [Overview](#-overview)
